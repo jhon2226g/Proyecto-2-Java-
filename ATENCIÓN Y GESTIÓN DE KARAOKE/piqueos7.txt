@@ -1,0 +1,2 @@
+6;0;Ceviche con chicharron de calamar;25.0;true
+5;2;Palomitas con mantequilla;17.0;true

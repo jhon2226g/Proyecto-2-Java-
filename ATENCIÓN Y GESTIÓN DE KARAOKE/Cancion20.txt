@@ -1,0 +1,2 @@
+5;We Are the World;1;We Are the World;29/06/2023;2;true
+10;Culpable o no;2;Busco una Mujer;29/06/2023;0;true

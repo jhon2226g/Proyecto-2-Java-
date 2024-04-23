@@ -1,0 +1,3 @@
+4;billie jean;1;Thriller;29/06/2023;2;true
+48;Ojos Marrones;10;Eva;29/06/2023;0;true
+46;Como Mirarte;10;Mantra;29/06/2023;0;true

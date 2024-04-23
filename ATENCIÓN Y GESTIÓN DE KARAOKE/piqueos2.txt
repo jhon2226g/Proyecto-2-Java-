@@ -1,0 +1,2 @@
+6;0;Ceviche con chicharron de calamar;25.0;true
+4;2;Alitas teriyaki;17.0;true

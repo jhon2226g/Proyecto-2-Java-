@@ -1,0 +1,7 @@
+1;0;Cristal 1L;10.0;CRISTAL;true
+2;4;Inka 3L;8.0;INKA COLA;true
+3;6;San luis personal;2.0;San Luis;true
+4;6;Cielo personal;3.0;Cielo;true
+5;3;Ron Cartavio 1L;22.0;Cartavio;true
+6;1;Queirolo 1L;18.0;Queirolo;true
+7;5;hawaiano Azul;13.0;----;true

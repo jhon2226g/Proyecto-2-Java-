@@ -1,0 +1,2 @@
+2;4;Inka 3L;8.0;INKA COLA;true
+1;0;Cristal 1L;10.0;CRISTAL;true

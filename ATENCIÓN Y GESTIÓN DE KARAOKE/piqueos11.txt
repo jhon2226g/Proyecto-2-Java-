@@ -1,0 +1,3 @@
+5;2;Palomitas con mantequilla;17.0;true
+4;2;Alitas teriyaki;17.0;true
+3;2;Alitas ronda;17.0;true

@@ -1,0 +1,53 @@
+1;beat it;1;beat it;24/06/2023;4;true
+2;thriller;1;thriller;25/06/2023;4;true
+3;Smooth Criminal;1;Bad 25;29/06/2023;4;true
+4;billie jean;1;Thriller;29/06/2023;5;true
+5;We Are the World;1;We Are the World;29/06/2023;2;true
+6;Lachica del bikini azul;2;palabra de honor;29/06/2023;3;true
+7;Ahora Te Puedes Marchar;2;Soy Como Quiero ser;29/06/2023;2;true
+8;La incondicional;2;Busco una Mujer;29/06/2023;0;true
+9;Hasta que me Olvides;2;Aries;29/06/2023;0;true
+10;Culpable o no;2;Busco una Mujer;29/06/2023;0;true
+11;La media Vuelta;2;Segundo Romance;29/06/2023;0;true
+12;Me porto bonito;3;Un Verano sin Ti;29/06/2023;0;true
+13;Titi Me Pregunto;3;Un Verano sin Ti;29/06/2023;0;true
+14;Ojitos Lindos;3;Un Verano Sin Ti;29/06/2023;0;true
+15;Diles;3;Diles;29/06/2023;0;true
+16;El Arbolito;4;Los Reyes De la Cumbia;29/06/2023;0;true
+17;Sueltame;4;Embriagame Suavecito;29/06/2023;0;true
+18;Crees tu;4;Tu Vives Equivocada;29/06/2023;0;true
+19;Pecadora;4;Pecadora;29/06/2023;0;true
+20;El Baile de la Cumbia;4;Embriagame Suavecito;29/06/2023;0;true
+21;Eres mi bien;5;La amante;29/06/2023;0;true
+22;La Culebritica;5;La Amante;29/06/2023;0;true
+23;El Telefono;5;Noche De Oro;29/06/2023;0;true
+24;La Amante;5;Noche de Oro;29/06/2023;0;true
+25;Motor y Motivo;5;Motor y Motivo;29/06/2023;1;true
+26;El Ritmo de Mi Corazon;5;Noche de Oro;29/06/2023;0;true
+27;Is This Love;6;Dreams of Freedom;29/06/2023;2;true
+28;Soul Rebel;6;Bob Marley;29/06/2023;0;true
+29;Asi Fue;7;todo;29/06/2023;2;true
+30;Caray;7;todo;29/06/2023;2;true
+31;Querida;7;Recuerdos;29/06/2023;0;true
+32;El Noa Noa;7;REcuerdos;29/06/2023;0;true
+33;Amor Eterno;7;Juan Gabriel;29/06/2023;0;true
+34;La Farssante;7;todo;29/06/2023;0;true
+35;ThunderStruck;8;The Razors Edge;29/06/2023;0;true
+36;TNT;8;1975;29/06/2023;0;true
+37;Hihgway to hell;8;Hihgway to hell;29/06/2023;0;true
+38;Sweet Child O' Mine;9;Appitite fo rDestruction;29/06/2023;0;true
+39;Patience;9;G N' R Lies;29/06/2023;0;true
+40;Don't Cry;9;Use Yuor Illusion;29/06/2023;0;true
+41;Welcome to the Jungle;9;Welcome to the Jungle;29/06/2023;1;true
+42;November Rain;9;Use Yuor Illusion;29/06/2023;0;true
+43;Tacones Rojos;10;Dharma;29/06/2023;1;true
+44;VAGABUNDO;10;VAGABUNDO;29/06/2023;0;true
+45;Traicionera;10;Traicionera;29/06/2023;0;true
+46;Como Mirarte;10;Mantra;29/06/2023;2;true
+47;Robarte un Beso;10;Mantra;29/06/2023;1;true
+48;Ojos Marrones;10;Eva;29/06/2023;1;true
+49;Santeria;11;Sublime;29/06/2023;0;true
+50;Seed;11;Sublime;29/06/2023;1;true
+51;Los Malaventurados no Lloran;13;Amantes;29/06/2023;0;true
+52;Narcisista por Excelencia;13;Amantes;29/06/2023;0;true
+53;Nuestra Afliccion;13;Poetics;29/06/2023;0;true

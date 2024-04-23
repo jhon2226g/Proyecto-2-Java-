@@ -1,0 +1,2 @@
+1;2;papas;20.0;true
+4;2;Alitas teriyaki;17.0;true

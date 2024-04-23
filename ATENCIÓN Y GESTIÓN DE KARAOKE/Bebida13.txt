@@ -1,0 +1,2 @@
+3;6;San luis personal;2.0;San Luis;true
+1;0;Cristal 1L;10.0;CRISTAL;true

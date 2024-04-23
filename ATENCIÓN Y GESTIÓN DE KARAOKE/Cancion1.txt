@@ -1,0 +1,2 @@
+6;Lachica del bikini azul;2;palabra de honor;29/06/2023;0;true
+4;billie jean;1;Thriller;29/06/2023;0;true

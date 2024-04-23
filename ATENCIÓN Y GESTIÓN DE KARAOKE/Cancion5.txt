@@ -1,0 +1,2 @@
+1;beat it;1;beat it;24/06/2023;1;true
+7;Ahora Te Puedes Marchar;2;Soy Como Quiero ser;29/06/2023;0;true

@@ -1,0 +1,2 @@
+3;2;Alitas ronda;17.0;true
+6;0;Ceviche con chicharron de calamar;25.0;true

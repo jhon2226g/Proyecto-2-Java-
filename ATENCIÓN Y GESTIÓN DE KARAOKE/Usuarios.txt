@@ -1,0 +1,7 @@
+1;Quiñones;Romero;Jhonatan;0;jhon;jhon;0
+2;Apellido;Apellido;Diana;0;diana;diana;0
+3;Apellido;Apellido;Cristofer;1;cris;cris;1
+4;Apellido;Apellido;Sergio;2;sergio;sergio;1
+5;Apellido;Apellido;Stanly;1;stanly;stanly;0
+6;ap;ap;Carlos;2;car;car;0
+7;ap;ap;luis;2;luis;luis;0
